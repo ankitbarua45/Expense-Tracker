@@ -174,10 +174,6 @@ VITE_FIREBASE_DATABASE_URL=your_database_url
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Support
 
 For issues and questions, please open an issue on the repository or contact the development team.
