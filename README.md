@@ -2,6 +2,12 @@
 
 A modern, full-stack expense tracking application built with React, Vite, and Firebase. Track your income and expenses, visualize your financial data with interactive charts, and export reports for offline use.
 
+## screenshort
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/27ae9be8-a330-4b20-8372-c170bfd392c2" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7201321b-4533-4f1d-929f-130f72382517" />
+
+
+
 ## Features
 
 - **User Authentication**: Secure sign up and login with Firebase Authentication
